@@ -205,7 +205,9 @@ My passion is to make useful digital products. I like to be creative with techno
 
 
 ### <div align="center">I'm Varun, an enthusiast full-time Web developer 👨‍💻 
-My passion is to make useful digital products. I like to be creative with technology and have a keen eye for creating dynamic and innovative web applications.</div>  
+My passion is to make useful digital products. I like to be creative with technology and have a keen eye for creating dynamic and innovative web applications.
+I specialize in using PHP Laravel,Cakephp,Yii2,CI, Node.js, and React.js, which have allowed me to develop robust and scalable web applications. My expertise in these technologies has been demonstrated through various projects that I have worked on, and I am always looking to improve my skills and stay up-to-date with the latest advancements in web development.
+</div>  
   
 
 #### *Talking about personal stuffs -*  
@@ -260,7 +262,7 @@ My passion is to make useful digital products. I like to be creative with techno
 </a>
 &emsp;
 <a href="">
-<img src="https://img.shields.io/badge/Curl-3080ed?style=for-the-badge&logo=curl&logoColor=0a3754" align="left" height="32" width="116" />  
+<img src="https://img.shields.io/badge/Curl-FFFFFF?style=for-the-badge&logo=curl&logoColor=1a4674" align="left" height="32" width="116" />  
 </a>
 &emsp;
 <a href="">
@@ -323,15 +325,3 @@ My passion is to make useful digital products. I like to be creative with techno
 
 <br />
 
-<span>
- am a highly skilled and experienced web developer with a passion for creating innovative and dynamic web applications. My background in MCA from Kurukshetra University and 5 years of professional experience in web development has provided me with a strong foundation in programming, design and development of web-based applications.
-
-I specialize in using PHP Laravel, Node.js, and React.js, which have allowed me to develop robust and scalable web applications. My expertise in these technologies has been demonstrated through various projects that I have worked on, and I am always looking to improve my skills and stay up-to-date with the latest advancements in web development.
-
-I am a proactive and dedicated developer, with a keen eye for detail and a focus on delivering high-quality results. I am excited to share my skills and experience with the developer community through my Github profile. I have various projects that I have worked on which showcase my technical abilities and the projects are open-source so that others can learn from my work and use it as a reference.
-
-I am always looking for opportunities to collaborate and learn from other developers, and I believe that my skills and experience make me a valuable asset to any development team. I welcome any opportunities to discuss how my skills and experience can contribute to your organization and I would be happy to share more about my background and experience.
-
-
-
-</span>
