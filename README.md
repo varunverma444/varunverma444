@@ -270,9 +270,17 @@ My passion is to make useful digital products. I like to be creative with techno
 <a href="">
 <img src="https://img.shields.io/badge/Github-171515?style=for-the-badge&logo=github&logoColor=white" align="left" height="32" width="auto" /> 
 </a>
-&emsp; 
+&emsp;
 <a href="">
-<img src="https://img.shields.io/badge/Curl-171515?style=for-the-badge&logo=curl&logoColor=white" align="left" height="32" width="116" />  
+<img src="https://camo.githubusercontent.com/bac5c7f45fe7c116b5f8c9d61c4611b31f635301a841bf8dcf1b89b8fcfa4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6666636132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b" align="left" height="32" width="140"/> 
+</a> 
+&emsp;  
+<a href="">
+<img src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" align="left" height="32" width="116" />  
+</a>
+&emsp;
+<a href="">
+<img src="https://img.shields.io/badge/Curl-FFFFFF?style=for-the-badge&logo=curl&logoColor=0a3754" align="left" height="32" width="116" />  
 </a>
 &emsp;
 </p>
