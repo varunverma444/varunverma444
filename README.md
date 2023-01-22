@@ -235,28 +235,17 @@ My passion is to make useful digital products. I like to be creative with techno
 
 ### Programing language  
 <img src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/J/JQuery-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/A/AJAX-Language-logo-vector-01.svg" align="left" height="60" width="60" />
+
+<img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" align="left" height="60" width="60" />
   
-<img src="https://img.shields.io/badge/JAVASCRIPT-d53c2c?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" align="left" height="32" width="" />  
-
-<img src="https://img.shields.io/badge/Jquery-d53c2c?style=for-the-badge&logo=Jquery&logoColor=black" align="left" height="32" width="" /> 
- 
-<img src="https://img.shields.io/badge/BOOTSTRAP-d53c2c?style=for-the-badge&logo=BOOTSTRAP&logoColor=black" align="left" height="32" width="" />  
-
-<img src="https://img.shields.io/badge/BOOTSTRAP-7811f2?style=for-the-badge&logo=BOOTSTRAP&logoColor=black" align="left" height="32" width="" />
-  
-<img src="https://img.shields.io/badge/REACTJS-5ed3f3?style=for-the-badge&logo=REACTJS&logoColor=transparent" align="left" height="32" width="" />  
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="left" height="32" width="120" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="left" height="32" width="" />  
-  
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" align="left" height="32" width="108" />  
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" align="left" height="32" width="" />  
- 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="left" height="32" width="100" />  
-  
-
 <br/>  
 
 
