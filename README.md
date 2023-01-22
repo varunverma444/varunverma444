@@ -30,13 +30,13 @@ I like to be creative with technology and have a keen eye for design and appreci
 
 
 ## Hey 👋, This is Varun Verma
-[![Gmail Badge](https://img.shields.io/badge/-vermarahul1454@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vermarahul1454@gmail.com)](mailto:vermarahul1454@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rahulverma210545190-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulverma210545190/)](https://www.linkedin.com/in/rahulverma210545190/) [![Github Badge](https://img.shields.io/badge/-vermarahul1454-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vermarahul1454/)](https://www.github.com/vermarahul1454/) <p align='left'>My passion is to make useful digital products. I like to be creative with technology and have a keen eye for design and appreciate the importance of a clean and beautiful user-interface that engages the user.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk' target=_blank><u>here</u>.</a></p>
+[![Gmail Badge](https://img.shields.io/badge/-varunverma444@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:varunverma444@gmail.com)](mailto:varunverma444@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rahulverma210545190-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulverma210545190/)](https://www.linkedin.com/in/rahulverma210545190/) [![Github Badge](https://img.shields.io/badge/-varunverma444-grey?style=flat&logo=github&logoColor=white&link=https://github.com/varunverma444/)](https://www.github.com/varunverma444/) <p align='left'>My passion is to make useful digital products. I like to be creative with technology and have a keen eye for design and appreciate the importance of a clean and beautiful user-interface that engages the user.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=vermarahul1454 alt=vermarahul1454 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=varunverma444 alt=varunverma444 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=vermarahul1454&show_icons=true&include_all_commits=true)](https://github.com/vermarahul1454/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermarahul1454&layout=compact)](https://github.com/vermarahul1454/github-readme-stats) -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=varunverma444&show_icons=true&include_all_commits=true)](https://github.com/varunverma444/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunverma444&layout=compact)](https://github.com/varunverma444/github-readme-stats) -->
 
 
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73687578/169656864-b0c5045d-08b9-423a-aafa-893e61719d70.gif)
@@ -170,7 +170,7 @@ My passion is to make useful digital products. I like to be creative with techno
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" height="40" width="" />  
   </a>
 
-  <a href="https://github.com/vermarahul1454" target="_blank">
+  <a href="https://github.com/varunverma444" target="_blank">
   <img src="https://i.postimg.cc/KYX86Bwk/hubgit.png" align="left" height="40" width="" />  
   </a>
   
@@ -188,12 +188,12 @@ My passion is to make useful digital products. I like to be creative with techno
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vermarahul1454&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=varunverma444&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vermarahul1454&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=varunverma444&&style=flat-square" align="center" />
 </div>  
 
 <br /> -->
@@ -256,12 +256,6 @@ My passion is to make useful digital products. I like to be creative with techno
   
 <p>
 <a href="">
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" align="left" height="32" width="112" />  
-</a>
-&emsp;
-<a href=""><img src="https://img.shields.io/badge/Cocoapods-380101?style=for-the-badge&logo=cocoapods&logoColor=white" align="left" height="32" width="" /> </a>
-&emsp;
-<a href="">
 <img src="https://img.shields.io/badge/Gitlab-EEE4AB?style=for-the-badge&logo=gitlab&logoColor=white" align="left" height="32" width="124" />  
 </a>
 &emsp;
@@ -297,7 +291,7 @@ My passion is to make useful digital products. I like to be creative with techno
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" height="40" width="" />  
   </a>
 
-  <a href="https://github.com/vermarahul1454" target="_blank">
+  <a href="https://github.com/varunverma444" target="_blank">
   <img src="https://i.postimg.cc/KYX86Bwk/hubgit.png" align="left" height="40" width="" />  
   </a>
   
@@ -305,7 +299,7 @@ My passion is to make useful digital products. I like to be creative with techno
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" align="left" height="40" width="" />  
   </a>
   
-  <a href="mailto:vermarahul@gmail.com" target="_blank">
+  <a href="mailto:varunverma404@gmail.com" target="_blank">
   <img src="https://i.postimg.cc/SQW8KNkz/gmail.png" align="left" height="40" width="" />  
   </a>
   
@@ -315,25 +309,12 @@ My passion is to make useful digital products. I like to be creative with techno
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vermarahul1454&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=varunverma444&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vermarahul1454&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=varunverma444&&style=flat-square" align="center" />
 </div>  
 
 <br />
-
-<span>
- am a highly skilled and experienced web developer with a passion for creating innovative and dynamic web applications. My background in MCA from Kurukshetra University and 5 years of professional experience in web development has provided me with a strong foundation in programming, design and development of web-based applications.
-
-I specialize in using PHP Laravel, Node.js, and React.js, which have allowed me to develop robust and scalable web applications. My expertise in these technologies has been demonstrated through various projects that I have worked on, and I am always looking to improve my skills and stay up-to-date with the latest advancements in web development.
-
-I am a proactive and dedicated developer, with a keen eye for detail and a focus on delivering high-quality results. I am excited to share my skills and experience with the developer community through my Github profile. I have various projects that I have worked on which showcase my technical abilities and the projects are open-source so that others can learn from my work and use it as a reference.
-
-I am always looking for opportunities to collaborate and learn from other developers, and I believe that my skills and experience make me a valuable asset to any development team. I welcome any opportunities to discuss how my skills and experience can contribute to your organization and I would be happy to share more about my background and experience.
-
-
-
-</span>
