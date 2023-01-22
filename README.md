@@ -234,7 +234,7 @@ My passion is to make useful digital products. I like to be creative with techno
 ## My Skill Set  <span><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /></span>
 
 ### Programing language  
-<img src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" align="left" height="32" width="" />
+<img src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" align="left" height="60" width="60" />
   
 <img src="https://img.shields.io/badge/JAVASCRIPT-d53c2c?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" align="left" height="32" width="" />  
 
