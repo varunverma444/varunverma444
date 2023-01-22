@@ -234,9 +234,9 @@ My passion is to make useful digital products. I like to be creative with techno
 ## My Skill Set  <span><img src= "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /></span>
 
 ### Programing language  
-<div style="width:90px;height:90px;margin:10px 5px 0 5px;background-color:white"><img src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" align="left" height="60" width="60" /></div>
-<div style="width:90px;height:90px;margin:10px 5px 0 5px;background-color:white"><img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" align="left" height="60" width="60" /></div>
-<img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" align="left" height="60" width="60" />
+<img src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" align="left" height="60" width="60" style="padding: 0px 20px;border:2px solid beige; margin-right: 10px;" />
+<img src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" align="left" height="60" width="60" style="padding: 0px 20px;border:2px solid beige; margin-right: 10px;"/>
+<img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" align="left" height="60" width="60" style="padding: 0px 20px;border:2px solid beige; margin-right: 10px;" />
 <img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" align="left" height="60" width="60" />
 <img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" align="left" height="60" width="60" />
 <img src="https://brandeps.com/logo-download/J/JQuery-logo-vector-01.svg" align="left" height="60" width="60" />
