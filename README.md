@@ -259,7 +259,7 @@ My passion is to make useful digital products. I like to be creative with techno
 <img src="https://img.shields.io/badge/phpmyadmin-EEE4AB?style=for-the-badge&logo=phpmyadmin&logoColor=white" align="left" height="32" width="124" />  
 </a>
 &emsp;
-<a href="https://www.freeiconspng.com/img/5576" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/phpmyadmin-icon-1.png" width="350" alt="Drawing Vector Phpmyadmin" /></a>
+<a href="https://www.freeiconspng.com/img/5576" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/phpmyadmin-icon-1.png" width="124" alt="Drawing Vector Phpmyadmin" /></a>
 &emsp;
 <a href="">
 <img src="https://img.shields.io/badge/Gitlab-EEE4AB?style=for-the-badge&logo=gitlab&logoColor=white" align="left" height="32" width="124" />  
