@@ -256,6 +256,12 @@ My passion is to make useful digital products. I like to be creative with techno
   
 <p>
 <a href="">
+<img src="https://img.shields.io/badge/phpmyadmin-EEE4AB?style=for-the-badge&logo=phpmyadmin&logoColor=white" align="left" height="32" width="124" />  
+</a>
+&emsp;
+<a href="https://www.freeiconspng.com/img/5576" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/phpmyadmin-icon-1.png" width="350" alt="Drawing Vector Phpmyadmin" /></a>
+&emsp;
+<a href="">
 <img src="https://img.shields.io/badge/Gitlab-EEE4AB?style=for-the-badge&logo=gitlab&logoColor=white" align="left" height="32" width="124" />  
 </a>
 &emsp;
@@ -272,11 +278,11 @@ My passion is to make useful digital products. I like to be creative with techno
 </a> 
 &emsp;  
 <a href="">
-<img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" align="left" height="32" width="116" />
+<img src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" align="left" height="32" width="116" />  
 </a>
 &emsp;
 <a href="">
-<img src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" align="left" height="32" width="116" />  
+<img src="https://img.shields.io/badge/Curl-171515?style=for-the-badge&logo=curl&logoColor=white" align="left" height="32" width="116" />  
 </a>
 &emsp;
 </p>
@@ -287,7 +293,7 @@ My passion is to make useful digital products. I like to be creative with techno
 
 ## Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40">
 
-  <a href="https://www.linkedin.com/in/rahul-verma-210545190" target="_blank">
+  <a href="https://www.linkedin.com/in/varun-verma-202180132" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" height="40" width="" />  
   </a>
 
@@ -295,7 +301,7 @@ My passion is to make useful digital products. I like to be creative with techno
   <img src="https://i.postimg.cc/KYX86Bwk/hubgit.png" align="left" height="40" width="" />  
   </a>
   
-  <a href="https://instagram.com/rahul.verma_99?igshid=NWRhNmQxMjQ=" target="_blank">
+  <a href="https://www.instagram.com/hunny28088/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" align="left" height="40" width="" />  
   </a>
   
@@ -318,3 +324,16 @@ My passion is to make useful digital products. I like to be creative with techno
 </div>  
 
 <br />
+
+<span>
+ am a highly skilled and experienced web developer with a passion for creating innovative and dynamic web applications. My background in MCA from Kurukshetra University and 5 years of professional experience in web development has provided me with a strong foundation in programming, design and development of web-based applications.
+
+I specialize in using PHP Laravel, Node.js, and React.js, which have allowed me to develop robust and scalable web applications. My expertise in these technologies has been demonstrated through various projects that I have worked on, and I am always looking to improve my skills and stay up-to-date with the latest advancements in web development.
+
+I am a proactive and dedicated developer, with a keen eye for detail and a focus on delivering high-quality results. I am excited to share my skills and experience with the developer community through my Github profile. I have various projects that I have worked on which showcase my technical abilities and the projects are open-source so that others can learn from my work and use it as a reference.
+
+I am always looking for opportunities to collaborate and learn from other developers, and I believe that my skills and experience make me a valuable asset to any development team. I welcome any opportunities to discuss how my skills and experience can contribute to your organization and I would be happy to share more about my background and experience.
+
+
+
+</span>
