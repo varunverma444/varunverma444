@@ -42,8 +42,8 @@ I like to be creative with technology and have a keen eye for design and appreci
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73687578/169656864-b0c5045d-08b9-423a-aafa-893e61719d70.gif)
 
 
-### <div align="center">I'm Rahul, an enthusiast full-time IOS application developer 👨‍💻 
-My passion is to make useful digital products. I like to be creative with technology and have a keen eye for design and appreciate the importance of a clean and beautiful user-interface that engages the user.</div>  
+### <div align="center">I'm Varun, an enthusiast full-time WEB developer 👨‍💻 
+My passion is to make useful digital products. I like to be creative with technology and have a keen eye for creating dynamic and innovative web applications.</div>  
   
 
 #### **Talking about personal stuffs -**  
