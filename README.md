@@ -260,7 +260,7 @@ My passion is to make useful digital products. I like to be creative with techno
 </a>
 &emsp;
 <a href="">
-<img src="https://img.shields.io/badge/Curl-FFFFFF?style=for-the-badge&logo=curl&logoColor=0a3754" align="left" height="32" width="116" />  
+<img src="https://img.shields.io/badge/Curl-3080ed?style=for-the-badge&logo=curl&logoColor=0a3754" align="left" height="32" width="116" />  
 </a>
 &emsp;
 <a href="">
