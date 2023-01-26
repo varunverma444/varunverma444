@@ -228,7 +228,7 @@ I specialize in using PHP Laravel,Cakephp,Yii2,CI, Node.js, and React.js, which 
 - 📚 I’m addicted to learning and growing every day  
   
 
-- 📝 [Resume](https://drive.google.com/file/d/1-VDfeWIOf0egl8kSphOh56Pu0X4Bfq20/view?usp=drivesdk)
+- 📝 [Resume](https://drive.google.com/file/d/1d_0r-DCenXWCy_bV6UpqEHtHXUN27XPP/view)
   
 
 <br/>  
